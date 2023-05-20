@@ -7,7 +7,7 @@ Citizen.CreateThread( function()
 	
 		if curVersion ~= responseText and tonumber(curVersion) < tonumber(responseText) then
 			print("\n###############################")
-			print("\n"..resourceName.." is outdated, should be:\n"..responseText.."is:\n"..curVersion.."\nplease update it from https://github.com"..updatePath.."")
+			print("\n"..resourceName.." is outdated\nIt should be version: "..responseText.."It is currently version: "..curVersion.."\nplease update it from https://github.com"..updatePath.."")
 			print("\n###############################")
 		elseif tonumber(curVersion) > tonumber(responseText) then
 			print("New extensions have been added to "..resourceName.." , the current version may not be compatible with the latest Las Venturas update!")
