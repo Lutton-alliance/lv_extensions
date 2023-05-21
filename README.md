@@ -1,4 +1,4 @@
-# lv-extensions
+# lv_extensions
 
 Installation:
 
