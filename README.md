@@ -8,6 +8,6 @@ Installation:
 Current Features:
 - Fire Towers (x2)
 
-Additional extensions or suggestions can be put under pull requests
+Additional extensions or suggestions can be mentioned under pull requests
 
 *Created by Alliance Development ©*
