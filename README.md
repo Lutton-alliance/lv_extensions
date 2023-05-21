@@ -2,11 +2,11 @@
 
 Installation:
 
-1) Add "lv-extensions" in the [LasVenturas] folder, **do not rename folder!**
-2) You may select which extension(s) to add based on area. To remove an extension, delete the associated folder from [placeholder]
+1) Add "lv_extensions" in the [LasVenturas] folder, **the folder name must be "lv_extensions"!**
+2) You may select which extension(s) to add based on area. To remove an extension, delete the associated folder from stream/[Folder]
 
 Current Features:
-- Fort Carson
+- Fire Towers (x2)
 
 Additional extensions or suggestions can be put under pull requests
 
