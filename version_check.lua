@@ -1,9 +1,9 @@
 Citizen.CreateThread( function()
-	updatePath = "/Lutton-alliance/lv_extensions" -- your git user/repo path
-	resourceName = "lv_extensions ("..GetCurrentResourceName()..")" -- the resource name
+	updatePath = "/Lutton-alliance/lv_extensions"
+	resourceName = "lv_extensions ("..GetCurrentResourceName()..")"
 	
 	function checkVersion(err,responseText, headers)
-		curVersion = LoadResourceFile(GetCurrentResourceName(), "version") -- make sure the "version" file actually exists in your resource root!
+		curVersion = LoadResourceFile(GetCurrentResourceName(), "version")
 	
 		if curVersion ~= responseText and tonumber(curVersion) < tonumber(responseText) then
 			print("\n###############################")
