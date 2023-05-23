@@ -9,5 +9,6 @@ Current Features:
 - Fire Towers (x2)
 
 Additional extensions or suggestions can be mentioned under pull requests
-
+For more info or support join the discord.
+https://discord.gg/NYwzCxWNtb
 *Created by Alliance Development ©*
