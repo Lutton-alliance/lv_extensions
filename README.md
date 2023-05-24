@@ -7,8 +7,15 @@ Installation:
 
 Current Features:
 - Fire Towers (x2)
+- Fort Carson Water Tower (x1)
 
-Additional extensions or suggestions can be mentioned under pull requests
+Credits:
+- Dennis Haupt - Fire Tower Model
+- Sepand Jahrominejad - Water Tower Model
+- SoyGalletita#0736 - Water Tower Logo
+
+Additional extensions or suggestions can be mentioned under pull requests. 
 For more info or support join the discord.
 https://discord.gg/NYwzCxWNtb
+
 *Created by Alliance Development ©*
