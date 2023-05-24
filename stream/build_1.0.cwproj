@@ -1,0 +1,34 @@
+<CodeWalkerProject>
+  <Name>New CodeWalker Project</Name>
+  <Version value="1" />
+  <YmapFilenames>
+    <Item>lv_firetowers\firetowers.ymap</Item>
+    <Item>lv_fc\lv_housing.ymap</Item>
+    <Item>lv_fc\lvoffices.ymap</Item>
+    <Item>lv_watertower\watertower.ymap</Item>
+  </YmapFilenames>
+  <YtypFilenames>
+    <Item>lv_firetowers\firewatch.ytyp</Item>
+    <Item>lv_fc\home_lv.ytyp</Item>
+    <Item>lv_watertower\fc_watertower.ytyp</Item>
+  </YtypFilenames>
+  <YbnFilenames />
+  <YndFilenames />
+  <YnvFilenames />
+  <TrainsFilenames />
+  <ScenarioFilenames />
+  <AudioRelFilenames />
+  <YdrFilenames>
+    <Item>lv_firetowers\firetower.ydr</Item>
+    <Item>lv_fc\home1.ydr</Item>
+    <Item>lv_watertower\watertower.ydr</Item>
+    <Item>lv_watertower\fc_watertower.ydr</Item>
+  </YdrFilenames>
+  <YddFilenames />
+  <YftFilenames />
+  <YtdFilenames>
+    <Item>lv_firetowers\towertext.ytd</Item>
+    <Item>lv_fc\h1_text.ytd</Item>
+    <Item>lv_watertower\watertowertext.ytd</Item>
+  </YtdFilenames>
+</CodeWalkerProject>
