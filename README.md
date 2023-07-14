@@ -10,6 +10,8 @@ Current Features:
 - Fort Carson Water Tower (x1)
 - Fort Carson Banquet Hall (x1)
 - Fort Carson Generic Building (x1)
+- Fort Carson Factory (x1)
+- Fort Carson Motel (x1)
 
 Credits:
 - Dennis Haupt - Fire Tower Model
@@ -17,6 +19,7 @@ Credits:
 - SoyGalletita#0736 - Water Tower Logo
 - Orzechu - Generic Building Model
 - novusod - Banquet Hall Model
+- alresaarvi - Factory model
 
 Additional extensions or suggestions can be mentioned under pull requests. 
 For more info or support join the discord.
