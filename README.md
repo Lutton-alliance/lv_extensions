@@ -32,7 +32,7 @@ Credits:
 - alresaarvi - Factory model
 
 Additional extensions or suggestions can be mentioned under pull requests. 
-For more info or support join the discord.
+For more info or support tag @lutton in #supporter-lobby or join the Alliance Development discord.
 https://discord.gg/NYwzCxWNtb
 
 *Created by Alliance Development ©*
