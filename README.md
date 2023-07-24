@@ -22,6 +22,10 @@ Current Features:
 - Fort Carson Generic Building (x1)
 - Fort Carson Factory (x1)
 - Fort Carson Motel (x1)
+- Fort Carson Grocery (x1)
+- Fort Carson Tattoo Parlor & Interior (x1)
+- Fort Carson Ammunation Store & Interior (x1)
+- Fort Carson Clothing Store & Interior (x1)
 
 Credits:
 - Dennis Haupt - Fire Tower Model
