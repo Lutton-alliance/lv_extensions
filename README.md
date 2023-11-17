@@ -8,7 +8,7 @@ Installation:
 *Installation with Fort Carson Motel, Fort Carson Factory, & Fort Carson Club*
 
 3) Delete the following files from the directories below:
-  - lv_fortcarson\stream\fc1_04\fc_01_3.ybn
+  - lv_fortcarson\stream\fc1_01\fc_01_3.ybn
   - lv_fortcarson\stream\fc1_04\fc_04_1.ybn
   - lv_fortcarson\stream\fc1_04\fc_04_4.ybn
   - lv_fortcarson\stream\fc1_01\fc1_03_ground.ydr
