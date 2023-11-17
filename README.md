@@ -32,6 +32,7 @@ Current Features:
 - Fort Carson Clothing Store & Interior (x1)
 - Fort Carson Club & Interior (x1)
 - Fort Carson Hydrants (x12)
+- Fort Carson Highway Sign (x1)
 
 Credits:
 - Dennis Haupt - Fire Tower Model
