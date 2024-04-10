@@ -3,7 +3,7 @@ games { 'gta5' }
 
 author 'Alliance Development'
 description 'lv_extensions | Las Venturas Project Addition'
-version '1.6'
+version '1.7'
 
 this_is_a_map 'yes'
 
