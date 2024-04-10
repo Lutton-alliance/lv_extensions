@@ -8,20 +8,20 @@ Installation:
 *Installation with Fort Carson Motel, Fort Carson Factory, Fort Carson Hospital & Fort Carson Club*
 
 3) Delete the following files from the directories below:
-  - lv_fortcarson\stream\fc1_04\fc_04_4.ybn
   - lv_fortcarson\stream\fc1_04\fc_04_5.ybn
   - lv_fortcarson\stream\fc1_04\fc_04_6.ybn
+  - lv_fortcarson\stream\fc1_05\fc_05_1.ybn
   - lv_fortcarson\stream\fc1_05\fc_05_4.ybn
   - lv_fortcarson\stream\fc1_06\fc_06_2.ybn
 
 
-  - lv_fortcarson\stream\fc1_04\fc4_04_ground.ydr
   - lv_fortcarson\stream\fc1_04\fc4_05_ground.ydr
   - lv_fortcarson\stream\fc1_04\fc4_06_ground.ydr
+  - lv_fortcarson\stream\fc1_05\fc5_01_ground.ydr
   - lv_fortcarson\stream\fc1_05\fc5_04_ground.ydr
   - lv_fortcarson\stream\fc1_06\fc6_02_ground.ydr
 
-In the lv_fortcarson\stream\fc1_09\ directory, delete all of the temp_cityblock_##.ymap files **except** for temp_cityblock_14.ymap.
+In the lv_fortcarson\stream\fc1_09\ directory, delete all of the temp_cityblock_##.ymap files
 
 
 Current Features:
